@@ -2,7 +2,7 @@
 
 - 💻 Motion designer
 - 🌱 Currently completing CS50
-- - 📫 How to reach me: lasse@lasseleon.no
+- 📫 How to reach me: lasse@lasseleon.no
 <!--
 **leolasse/leolasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
